@@ -1,6 +1,5 @@
 # formulario-framework
-Descripción del Proyecto
-Este proyecto implementa un sistema de gestión de usuarios que consume datos de la API JSONPlaceholder y los presenta en tablas interactivas utilizando jQuery DataTables. Incluye un formulario para simular la creación de nuevos usuarios con validaciones en tiempo real.
+Se implementa un sistema de gestión de usuarios que consume datos de la API JSONPlaceholder y los presenta en tablas interactivas utilizando jQuery DataTables. Incluye un formulario para simular la creación de nuevos usuarios con validaciones en tiempo real.
 
 Características principales
 Tablas dinámicas: Muestra datos de usuarios, publicaciones y comentarios
@@ -34,4 +33,3 @@ jQuery DataTables v2.3.2 (tablas interactivas)
 
 API: JSONPlaceholder (https://jsonplaceholder.typicode.com)
 
-Estructura de archivos
